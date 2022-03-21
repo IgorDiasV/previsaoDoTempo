@@ -1,0 +1,22 @@
+{
+  "name": "previsaodotempo",
+  "version": "1.0.0",
+  "description": "\"# previsaoDoTempo\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorDiasV/previsaoDoTempo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IgorDiasV/previsaoDoTempo/issues"
+  },
+  "homepage": "https://github.com/IgorDiasV/previsaoDoTempo#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}

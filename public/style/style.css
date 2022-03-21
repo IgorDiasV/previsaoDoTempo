@@ -1,0 +1,37 @@
+body{
+
+    display: flex;
+    justify-content:center;
+}
+#city
+{
+    width: 600px;
+    height: 30px;
+    border-radius: 15px;
+    background-color:transparent;
+    border: none;
+}
+#city:focus{
+   
+    border: 0 none;
+    outline:none;
+    
+}
+#busca 
+{
+    background-color:#E0EEEE;
+    border:solid 2px #5F9EA0;
+   
+    border-radius:10px;
+    width: 680px;
+    height:32px;
+}
+#btnBusca{
+
+    border:none;
+    height:32px;
+    width: 70px;
+    background-color:#5F9EA0;
+    float:right;
+    font-weight:bold;
+}
